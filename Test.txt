@@ -6,3 +6,8 @@
 //we add the files by git add .
 //Then we commit changes by git commit -m "your message" 
 //Then we push the files by git push
+//This is the beginening of something new
+//CYKA BLYAT
+//STFU
+//OK
+//Bye
