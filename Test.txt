@@ -2,3 +2,7 @@
 //ok
 //Bye
 //This is my 2nd edit
+//First we create a repo by git init
+//we add the files by git add .
+//Then we commit changes by git commit -m "your message" 
+//Then we push the files by git push
